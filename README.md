@@ -7,7 +7,7 @@ FitConnect, an iSpan MSIT 158 midterm project, mainly using C#, SQL and LINQ.
     <span>&emsp;&emsp;</span>
     健身課程媒合系統 (FitConnect)
   </div>
-  <div></div>
+  <p></p>
   <li>企劃發想：</li>
     <div>
       <p><span>&emsp;&emsp;</span>本企劃預計提供實體場地以及線上平台，線上平台作為欲受訓學員及健身教練媒合之用途；實體場地則作為教練、學員課程活動之場域。</p>
