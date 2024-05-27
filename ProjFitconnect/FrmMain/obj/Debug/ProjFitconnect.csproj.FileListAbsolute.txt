@@ -1,0 +1,259 @@
+C:\git\0409v2\ProjFitconnect\FrmMain\bin\Debug\FrmMain.exe.config
+C:\git\0409v2\ProjFitconnect\FrmMain\bin\Debug\FrmMain.exe
+C:\git\0409v2\ProjFitconnect\FrmMain\bin\Debug\FrmMain.pdb
+C:\git\0409v2\ProjFitconnect\FrmMain\bin\Debug\EntityFramework.dll
+C:\git\0409v2\ProjFitconnect\FrmMain\bin\Debug\EntityFramework.SqlServer.dll
+C:\git\0409v2\ProjFitconnect\FrmMain\bin\Debug\EntityFramework.xml
+C:\git\0409v2\ProjFitconnect\FrmMain\bin\Debug\EntityFramework.SqlServer.xml
+C:\git\0409v2\ProjFitconnect\FrmMain\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\git\0409v2\ProjFitconnect\FrmMain\bin\Debug\zh-Hant\EntityFramework.SqlServer.resources.dll
+C:\git\0409v2\ProjFitconnect\FrmMain\obj\Debug\ProjFitconnect.csproj.AssemblyReference.cache
+C:\git\0409v2\ProjFitconnect\FrmMain\obj\Debug\ProjFitconnect.csproj.SuggestedBindingRedirects.cache
+C:\git\0409v2\ProjFitconnect\FrmMain\obj\Debug\mid_Coonect.FrmAdmin_ClassUpdate.resources
+C:\git\0409v2\ProjFitconnect\FrmMain\obj\Debug\ProjGym.FrmAdmin_Payment.resources
+C:\git\0409v2\ProjFitconnect\FrmMain\obj\Debug\ProjGym.FrmCoach_Payment.resources
+C:\git\0409v2\ProjFitconnect\FrmMain\obj\Debug\ProjGym.FrmEditMemberRegister.resources
+C:\git\0409v2\ProjFitconnect\FrmMain\obj\Debug\Revised_V1._1.FrmFindCoach.resources
+C:\git\0409v2\ProjFitconnect\FrmMain\obj\Debug\Gym.FrmFollow.resources
+C:\git\0409v2\ProjFitconnect\FrmMain\obj\Debug\ProjGym.FrmMember_CourseReservationV2.resources
+C:\git\0409v2\ProjFitconnect\FrmMain\obj\Debug\FrmMain.FrmRateClass.resources
+C:\git\0409v2\ProjFitconnect\FrmMain\obj\Debug\FrmMain.FrmReservingClasses.resources
+C:\git\0409v2\ProjFitconnect\FrmMain\obj\Debug\FrmMain.tool.rateClassBox.resources
+C:\git\0409v2\ProjFitconnect\FrmMain\obj\Debug\FrmMain.tool.ClassReservingBox.resources
+C:\git\0409v2\ProjFitconnect\FrmMain\obj\Debug\FrmMain.FrmAdmin_Checkmember.resources
+C:\git\0409v2\ProjFitconnect\FrmMain\obj\Debug\FrmMain.FrmClassReserved.resources
+C:\git\0409v2\ProjFitconnect\FrmMain\obj\Debug\Revised_V1._1.FrmCoachInfo.resources
+C:\git\0409v2\ProjFitconnect\FrmMain\obj\Debug\FrmMain.FrmCoachVerify.resources
+C:\git\0409v2\ProjFitconnect\FrmMain\obj\Debug\FrmMain.FrmEditCoachRegister.resources
+C:\git\0409v2\ProjFitconnect\FrmMain\obj\Debug\FrmMain.Frmfreetrial.resources
+C:\git\0409v2\ProjFitconnect\FrmMain\obj\Debug\FrmMain.FrmNewExpert.resources
+C:\git\0409v2\ProjFitconnect\FrmMain\obj\Debug\ProjGym.FrmOpenClass.resources
+C:\git\0409v2\ProjFitconnect\FrmMain\obj\Debug\FrmMain.FrmOpenedClassCheck.resources
+C:\git\0409v2\ProjFitconnect\FrmMain\obj\Debug\FrmMain.reservebox.resources
+C:\git\0409v2\ProjFitconnect\FrmMain\obj\Debug\FrmMain.tool.ReservedMemberCheck.resources
+C:\git\0409v2\ProjFitconnect\FrmMain\obj\Debug\ProjGym.CourseBox.resources
+C:\git\0409v2\ProjFitconnect\FrmMain\obj\Debug\ProjGym.FrmCoach_AddNewCourse.resources
+C:\git\0409v2\ProjFitconnect\FrmMain\obj\Debug\ProjGym.FrmMember_ClassList.resources
+C:\git\0409v2\ProjFitconnect\FrmMain\obj\Debug\ProjGym.FrmMember_CourseReservation.resources
+C:\git\0409v2\ProjFitconnect\FrmMain\obj\Debug\mid_Coonect.Tools.CoachBox.resources
+C:\git\0409v2\ProjFitconnect\FrmMain\obj\Debug\prjComponentDemo.usercontrol.FieldBox.resources
+C:\git\0409v2\ProjFitconnect\FrmMain\obj\Debug\ProjGym.FrmFAQ.resources
+C:\git\0409v2\ProjFitconnect\FrmMain\obj\Debug\Gym.FrmField.resources
+C:\git\0409v2\ProjFitconnect\FrmMain\obj\Debug\ProjGym.FrmHomePage.resources
+C:\git\0409v2\ProjFitconnect\FrmMain\obj\Debug\ProjGym.FrmLogin.resources
+C:\git\0409v2\ProjFitconnect\FrmMain\obj\Debug\ProjGym.FrmNewAdminRegister.resources
+C:\git\0409v2\ProjFitconnect\FrmMain\obj\Debug\ProjGym.FrmNewCoachRegister.resources
+C:\git\0409v2\ProjFitconnect\FrmMain\obj\Debug\ProjGym.FrmNewMemberRegister.resources
+C:\git\0409v2\ProjFitconnect\FrmMain\obj\Debug\ProjGym.Frm_首頁.resources
+C:\git\0409v2\ProjFitconnect\FrmMain\obj\Debug\FrmMain.Properties.Resources.resources
+C:\git\0409v2\ProjFitconnect\FrmMain\obj\Debug\ProjFitconnect.csproj.GenerateResource.cache
+C:\git\0409v2\ProjFitconnect\FrmMain\obj\Debug\ProjFitconnect.csproj.CoreCompileInputs.cache
+C:\git\0409v2\ProjFitconnect\FrmMain\obj\Debug\ProjFitconnect.csproj.CopyComplete
+C:\git\0409v2\ProjFitconnect\FrmMain\obj\Debug\FrmMain.exe
+C:\git\0409v2\ProjFitconnect\FrmMain\obj\Debug\FrmMain.pdb
+D:\C# course\期中專題\ProjFitconnect\FrmMain\bin\Debug\FrmMain.exe.config
+D:\C# course\期中專題\ProjFitconnect\FrmMain\bin\Debug\FrmMain.exe
+D:\C# course\期中專題\ProjFitconnect\FrmMain\bin\Debug\FrmMain.pdb
+D:\C# course\期中專題\ProjFitconnect\FrmMain\bin\Debug\EntityFramework.dll
+D:\C# course\期中專題\ProjFitconnect\FrmMain\bin\Debug\EntityFramework.SqlServer.dll
+D:\C# course\期中專題\ProjFitconnect\FrmMain\bin\Debug\EntityFramework.xml
+D:\C# course\期中專題\ProjFitconnect\FrmMain\bin\Debug\EntityFramework.SqlServer.xml
+D:\C# course\期中專題\ProjFitconnect\FrmMain\bin\Debug\zh-Hant\EntityFramework.resources.dll
+D:\C# course\期中專題\ProjFitconnect\FrmMain\bin\Debug\zh-Hant\EntityFramework.SqlServer.resources.dll
+D:\C# course\期中專題\ProjFitconnect\FrmMain\obj\Debug\ProjFitconnect.csproj.AssemblyReference.cache
+D:\C# course\期中專題\ProjFitconnect\FrmMain\obj\Debug\mid_Coonect.FrmAdmin_ClassUpdate.resources
+D:\C# course\期中專題\ProjFitconnect\FrmMain\obj\Debug\ProjGym.FrmAdmin_Payment.resources
+D:\C# course\期中專題\ProjFitconnect\FrmMain\obj\Debug\ProjGym.FrmCoach_Payment.resources
+D:\C# course\期中專題\ProjFitconnect\FrmMain\obj\Debug\ProjGym.FrmEditMemberRegister.resources
+D:\C# course\期中專題\ProjFitconnect\FrmMain\obj\Debug\Revised_V1._1.FrmFindCoach.resources
+D:\C# course\期中專題\ProjFitconnect\FrmMain\obj\Debug\Gym.FrmFollow.resources
+D:\C# course\期中專題\ProjFitconnect\FrmMain\obj\Debug\ProjGym.FrmMember_CourseReservationV2.resources
+D:\C# course\期中專題\ProjFitconnect\FrmMain\obj\Debug\FrmMain.FrmRateClass.resources
+D:\C# course\期中專題\ProjFitconnect\FrmMain\obj\Debug\FrmMain.FrmReservingClasses.resources
+D:\C# course\期中專題\ProjFitconnect\FrmMain\obj\Debug\FrmMain.tool.rateClassBox.resources
+D:\C# course\期中專題\ProjFitconnect\FrmMain\obj\Debug\FrmMain.tool.ClassReservingBox.resources
+D:\C# course\期中專題\ProjFitconnect\FrmMain\obj\Debug\FrmMain.FrmAdmin_Checkmember.resources
+D:\C# course\期中專題\ProjFitconnect\FrmMain\obj\Debug\FrmMain.FrmClassReserved.resources
+D:\C# course\期中專題\ProjFitconnect\FrmMain\obj\Debug\Revised_V1._1.FrmCoachInfo.resources
+D:\C# course\期中專題\ProjFitconnect\FrmMain\obj\Debug\FrmMain.FrmCoachVerify.resources
+D:\C# course\期中專題\ProjFitconnect\FrmMain\obj\Debug\FrmMain.FrmEditCoachRegister.resources
+D:\C# course\期中專題\ProjFitconnect\FrmMain\obj\Debug\FrmMain.Frmfreetrial.resources
+D:\C# course\期中專題\ProjFitconnect\FrmMain\obj\Debug\FrmMain.FrmNewExpert.resources
+D:\C# course\期中專題\ProjFitconnect\FrmMain\obj\Debug\ProjGym.FrmOpenClass.resources
+D:\C# course\期中專題\ProjFitconnect\FrmMain\obj\Debug\FrmMain.FrmOpenedClassCheck.resources
+D:\C# course\期中專題\ProjFitconnect\FrmMain\obj\Debug\FrmMain.reservebox.resources
+D:\C# course\期中專題\ProjFitconnect\FrmMain\obj\Debug\FrmMain.tool.ReservedMemberCheck.resources
+D:\C# course\期中專題\ProjFitconnect\FrmMain\obj\Debug\ProjGym.CourseBox.resources
+D:\C# course\期中專題\ProjFitconnect\FrmMain\obj\Debug\ProjGym.FrmCoach_AddNewCourse.resources
+D:\C# course\期中專題\ProjFitconnect\FrmMain\obj\Debug\ProjGym.FrmMember_ClassList.resources
+D:\C# course\期中專題\ProjFitconnect\FrmMain\obj\Debug\ProjGym.FrmMember_CourseReservation.resources
+D:\C# course\期中專題\ProjFitconnect\FrmMain\obj\Debug\mid_Coonect.Tools.CoachBox.resources
+D:\C# course\期中專題\ProjFitconnect\FrmMain\obj\Debug\prjComponentDemo.usercontrol.FieldBox.resources
+D:\C# course\期中專題\ProjFitconnect\FrmMain\obj\Debug\ProjGym.FrmFAQ.resources
+D:\C# course\期中專題\ProjFitconnect\FrmMain\obj\Debug\Gym.FrmField.resources
+D:\C# course\期中專題\ProjFitconnect\FrmMain\obj\Debug\ProjGym.FrmHomePage.resources
+D:\C# course\期中專題\ProjFitconnect\FrmMain\obj\Debug\ProjGym.FrmLogin.resources
+D:\C# course\期中專題\ProjFitconnect\FrmMain\obj\Debug\ProjGym.FrmNewAdminRegister.resources
+D:\C# course\期中專題\ProjFitconnect\FrmMain\obj\Debug\ProjGym.FrmNewCoachRegister.resources
+D:\C# course\期中專題\ProjFitconnect\FrmMain\obj\Debug\ProjGym.FrmNewMemberRegister.resources
+D:\C# course\期中專題\ProjFitconnect\FrmMain\obj\Debug\ProjGym.Frm_首頁.resources
+D:\C# course\期中專題\ProjFitconnect\FrmMain\obj\Debug\FrmMain.Properties.Resources.resources
+D:\C# course\期中專題\ProjFitconnect\FrmMain\obj\Debug\ProjFitconnect.csproj.GenerateResource.cache
+D:\C# course\期中專題\ProjFitconnect\FrmMain\obj\Debug\ProjFitconnect.csproj.CoreCompileInputs.cache
+D:\C# course\期中專題\ProjFitconnect\FrmMain\obj\Debug\ProjFitc.52EBE198.Up2Date
+D:\C# course\期中專題\ProjFitconnect\FrmMain\obj\Debug\FrmMain.exe
+D:\C# course\期中專題\ProjFitconnect\FrmMain\obj\Debug\FrmMain.pdb
+D:\C# course\期中專題\ProjFitconnect\FrmMain\obj\Debug\FrmMain.tool.CoachReviewBox.resources
+C:\Users\User\Desktop\ProjFitconnect\FrmMain\bin\Debug\FrmMain.exe.config
+C:\Users\User\Desktop\ProjFitconnect\FrmMain\bin\Debug\FrmMain.exe
+C:\Users\User\Desktop\ProjFitconnect\FrmMain\bin\Debug\FrmMain.pdb
+C:\Users\User\Desktop\ProjFitconnect\FrmMain\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\ProjFitconnect\FrmMain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\ProjFitconnect\FrmMain\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\ProjFitconnect\FrmMain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\ProjFitconnect\FrmMain\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\User\Desktop\ProjFitconnect\FrmMain\bin\Debug\zh-Hant\EntityFramework.SqlServer.resources.dll
+C:\Users\User\Desktop\ProjFitconnect\FrmMain\obj\Debug\ProjFitconnect.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ProjFitconnect\FrmMain\obj\Debug\ProjFitconnect.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\ProjFitconnect\FrmMain\obj\Debug\mid_Coonect.FrmAdmin_ClassUpdate.resources
+C:\Users\User\Desktop\ProjFitconnect\FrmMain\obj\Debug\ProjGym.FrmAdmin_Payment.resources
+C:\Users\User\Desktop\ProjFitconnect\FrmMain\obj\Debug\ProjGym.FrmCoach_Payment.resources
+C:\Users\User\Desktop\ProjFitconnect\FrmMain\obj\Debug\ProjGym.FrmEditMemberRegister.resources
+C:\Users\User\Desktop\ProjFitconnect\FrmMain\obj\Debug\Revised_V1._1.FrmFindCoach.resources
+C:\Users\User\Desktop\ProjFitconnect\FrmMain\obj\Debug\Gym.FrmFollow.resources
+C:\Users\User\Desktop\ProjFitconnect\FrmMain\obj\Debug\ProjGym.FrmMember_CourseReservationV2.resources
+C:\Users\User\Desktop\ProjFitconnect\FrmMain\obj\Debug\FrmMain.FrmReservingClasses.resources
+C:\Users\User\Desktop\ProjFitconnect\FrmMain\obj\Debug\FrmMain.tool.CoachReviewBox.resources
+C:\Users\User\Desktop\ProjFitconnect\FrmMain\obj\Debug\FrmMain.tool.ClassReservingBox.resources
+C:\Users\User\Desktop\ProjFitconnect\FrmMain\obj\Debug\FrmMain.FrmAdmin_Checkmember.resources
+C:\Users\User\Desktop\ProjFitconnect\FrmMain\obj\Debug\FrmMain.FrmClassReserved.resources
+C:\Users\User\Desktop\ProjFitconnect\FrmMain\obj\Debug\Revised_V1._1.FrmCoachInfo.resources
+C:\Users\User\Desktop\ProjFitconnect\FrmMain\obj\Debug\FrmMain.FrmCoachVerify.resources
+C:\Users\User\Desktop\ProjFitconnect\FrmMain\obj\Debug\FrmMain.FrmEditCoachRegister.resources
+C:\Users\User\Desktop\ProjFitconnect\FrmMain\obj\Debug\FrmMain.Frmfreetrial.resources
+C:\Users\User\Desktop\ProjFitconnect\FrmMain\obj\Debug\FrmMain.FrmNewExpert.resources
+C:\Users\User\Desktop\ProjFitconnect\FrmMain\obj\Debug\FrmMain.FrmOpenedClassCheck.resources
+C:\Users\User\Desktop\ProjFitconnect\FrmMain\obj\Debug\FrmMain.reservebox.resources
+C:\Users\User\Desktop\ProjFitconnect\FrmMain\obj\Debug\FrmMain.tool.ReservedMemberCheck.resources
+C:\Users\User\Desktop\ProjFitconnect\FrmMain\obj\Debug\ProjGym.CourseBox.resources
+C:\Users\User\Desktop\ProjFitconnect\FrmMain\obj\Debug\ProjGym.FrmCoach_AddNewCourse.resources
+C:\Users\User\Desktop\ProjFitconnect\FrmMain\obj\Debug\ProjGym.FrmMember_CourseReservation.resources
+C:\Users\User\Desktop\ProjFitconnect\FrmMain\obj\Debug\mid_Coonect.Tools.CoachBox.resources
+C:\Users\User\Desktop\ProjFitconnect\FrmMain\obj\Debug\prjComponentDemo.usercontrol.FieldBox.resources
+C:\Users\User\Desktop\ProjFitconnect\FrmMain\obj\Debug\ProjGym.FrmFAQ.resources
+C:\Users\User\Desktop\ProjFitconnect\FrmMain\obj\Debug\Gym.FrmField.resources
+C:\Users\User\Desktop\ProjFitconnect\FrmMain\obj\Debug\ProjGym.FrmHomePage.resources
+C:\Users\User\Desktop\ProjFitconnect\FrmMain\obj\Debug\ProjGym.FrmLogin.resources
+C:\Users\User\Desktop\ProjFitconnect\FrmMain\obj\Debug\ProjGym.FrmNewAdminRegister.resources
+C:\Users\User\Desktop\ProjFitconnect\FrmMain\obj\Debug\ProjGym.FrmNewCoachRegister.resources
+C:\Users\User\Desktop\ProjFitconnect\FrmMain\obj\Debug\ProjGym.FrmNewMemberRegister.resources
+C:\Users\User\Desktop\ProjFitconnect\FrmMain\obj\Debug\ProjGym.Frm_首頁.resources
+C:\Users\User\Desktop\ProjFitconnect\FrmMain\obj\Debug\FrmMain.Properties.Resources.resources
+C:\Users\User\Desktop\ProjFitconnect\FrmMain\obj\Debug\ProjFitconnect.csproj.GenerateResource.cache
+C:\Users\User\Desktop\ProjFitconnect\FrmMain\obj\Debug\ProjFitconnect.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ProjFitconnect\FrmMain\obj\Debug\ProjFitconnect.csproj.CopyComplete
+C:\Users\User\Desktop\ProjFitconnect\FrmMain\obj\Debug\FrmMain.exe
+C:\Users\User\Desktop\ProjFitconnect\FrmMain\obj\Debug\FrmMain.pdb
+C:\Users\User\Desktop\ProjFitconnect\FrmMain\obj\Debug\FrmMain.FrmClassRate.resources
+C:\0\mid\ProjFitconnect\FrmMain\bin\Debug\FrmMain.exe.config
+C:\0\mid\ProjFitconnect\FrmMain\bin\Debug\FrmMain.exe
+C:\0\mid\ProjFitconnect\FrmMain\bin\Debug\FrmMain.pdb
+C:\0\mid\ProjFitconnect\FrmMain\bin\Debug\EntityFramework.dll
+C:\0\mid\ProjFitconnect\FrmMain\bin\Debug\EntityFramework.SqlServer.dll
+C:\0\mid\ProjFitconnect\FrmMain\bin\Debug\EntityFramework.xml
+C:\0\mid\ProjFitconnect\FrmMain\bin\Debug\EntityFramework.SqlServer.xml
+C:\0\mid\ProjFitconnect\FrmMain\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\0\mid\ProjFitconnect\FrmMain\bin\Debug\zh-Hant\EntityFramework.SqlServer.resources.dll
+C:\0\mid\ProjFitconnect\FrmMain\obj\Debug\ProjFitconnect.csproj.AssemblyReference.cache
+C:\0\mid\ProjFitconnect\FrmMain\obj\Debug\ProjFitconnect.csproj.SuggestedBindingRedirects.cache
+C:\0\mid\ProjFitconnect\FrmMain\obj\Debug\mid_Coonect.FrmAdmin_ClassUpdate.resources
+C:\0\mid\ProjFitconnect\FrmMain\obj\Debug\ProjGym.FrmAdmin_Payment.resources
+C:\0\mid\ProjFitconnect\FrmMain\obj\Debug\FrmMain.FrmClassRate.resources
+C:\0\mid\ProjFitconnect\FrmMain\obj\Debug\ProjGym.FrmCoach_Payment.resources
+C:\0\mid\ProjFitconnect\FrmMain\obj\Debug\ProjGym.FrmEditMemberRegister.resources
+C:\0\mid\ProjFitconnect\FrmMain\obj\Debug\Revised_V1._1.FrmFindCoach.resources
+C:\0\mid\ProjFitconnect\FrmMain\obj\Debug\Gym.FrmFollow.resources
+C:\0\mid\ProjFitconnect\FrmMain\obj\Debug\ProjGym.FrmMember_CourseReservationV2.resources
+C:\0\mid\ProjFitconnect\FrmMain\obj\Debug\FrmMain.FrmReservingClasses.resources
+C:\0\mid\ProjFitconnect\FrmMain\obj\Debug\FrmMain.tool.CoachReviewBox.resources
+C:\0\mid\ProjFitconnect\FrmMain\obj\Debug\FrmMain.tool.ClassReservingBox.resources
+C:\0\mid\ProjFitconnect\FrmMain\obj\Debug\FrmMain.FrmAdmin_Checkmember.resources
+C:\0\mid\ProjFitconnect\FrmMain\obj\Debug\FrmMain.FrmClassReserved.resources
+C:\0\mid\ProjFitconnect\FrmMain\obj\Debug\Revised_V1._1.FrmCoachInfo.resources
+C:\0\mid\ProjFitconnect\FrmMain\obj\Debug\FrmMain.FrmCoachVerify.resources
+C:\0\mid\ProjFitconnect\FrmMain\obj\Debug\FrmMain.FrmEditCoachRegister.resources
+C:\0\mid\ProjFitconnect\FrmMain\obj\Debug\FrmMain.Frmfreetrial.resources
+C:\0\mid\ProjFitconnect\FrmMain\obj\Debug\FrmMain.FrmNewExpert.resources
+C:\0\mid\ProjFitconnect\FrmMain\obj\Debug\FrmMain.FrmOpenedClassCheck.resources
+C:\0\mid\ProjFitconnect\FrmMain\obj\Debug\FrmMain.reservebox.resources
+C:\0\mid\ProjFitconnect\FrmMain\obj\Debug\FrmMain.tool.ReservedMemberCheck.resources
+C:\0\mid\ProjFitconnect\FrmMain\obj\Debug\ProjGym.CourseBox.resources
+C:\0\mid\ProjFitconnect\FrmMain\obj\Debug\ProjGym.FrmCoach_AddNewCourse.resources
+C:\0\mid\ProjFitconnect\FrmMain\obj\Debug\ProjGym.FrmMember_CourseReservation.resources
+C:\0\mid\ProjFitconnect\FrmMain\obj\Debug\mid_Coonect.Tools.CoachBox.resources
+C:\0\mid\ProjFitconnect\FrmMain\obj\Debug\prjComponentDemo.usercontrol.FieldBox.resources
+C:\0\mid\ProjFitconnect\FrmMain\obj\Debug\ProjGym.FrmFAQ.resources
+C:\0\mid\ProjFitconnect\FrmMain\obj\Debug\Gym.FrmField.resources
+C:\0\mid\ProjFitconnect\FrmMain\obj\Debug\ProjGym.FrmHomePage.resources
+C:\0\mid\ProjFitconnect\FrmMain\obj\Debug\ProjGym.FrmLogin.resources
+C:\0\mid\ProjFitconnect\FrmMain\obj\Debug\ProjGym.FrmNewAdminRegister.resources
+C:\0\mid\ProjFitconnect\FrmMain\obj\Debug\ProjGym.FrmNewCoachRegister.resources
+C:\0\mid\ProjFitconnect\FrmMain\obj\Debug\ProjGym.FrmNewMemberRegister.resources
+C:\0\mid\ProjFitconnect\FrmMain\obj\Debug\ProjGym.Frm_首頁.resources
+C:\0\mid\ProjFitconnect\FrmMain\obj\Debug\FrmMain.Properties.Resources.resources
+C:\0\mid\ProjFitconnect\FrmMain\obj\Debug\ProjFitconnect.csproj.GenerateResource.cache
+C:\0\mid\ProjFitconnect\FrmMain\obj\Debug\ProjFitconnect.csproj.CoreCompileInputs.cache
+C:\0\mid\ProjFitconnect\FrmMain\obj\Debug\ProjFitconnect.csproj.CopyComplete
+C:\0\mid\ProjFitconnect\FrmMain\obj\Debug\FrmMain.exe
+C:\0\mid\ProjFitconnect\FrmMain\obj\Debug\FrmMain.pdb
+C:\Shared\專題\第三組\ProjFitconnect\FrmMain\bin\Debug\FrmMain.exe.config
+C:\Shared\專題\第三組\ProjFitconnect\FrmMain\bin\Debug\FrmMain.exe
+C:\Shared\專題\第三組\ProjFitconnect\FrmMain\bin\Debug\FrmMain.pdb
+C:\Shared\專題\第三組\ProjFitconnect\FrmMain\bin\Debug\EntityFramework.dll
+C:\Shared\專題\第三組\ProjFitconnect\FrmMain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Shared\專題\第三組\ProjFitconnect\FrmMain\bin\Debug\EntityFramework.xml
+C:\Shared\專題\第三組\ProjFitconnect\FrmMain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Shared\專題\第三組\ProjFitconnect\FrmMain\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Shared\專題\第三組\ProjFitconnect\FrmMain\bin\Debug\zh-Hant\EntityFramework.SqlServer.resources.dll
+C:\Shared\專題\第三組\ProjFitconnect\FrmMain\obj\Debug\ProjFitconnect.csproj.AssemblyReference.cache
+C:\Shared\專題\第三組\ProjFitconnect\FrmMain\obj\Debug\ProjFitconnect.csproj.SuggestedBindingRedirects.cache
+C:\Shared\專題\第三組\ProjFitconnect\FrmMain\obj\Debug\mid_Coonect.FrmAdmin_ClassUpdate.resources
+C:\Shared\專題\第三組\ProjFitconnect\FrmMain\obj\Debug\ProjGym.FrmAdmin_Payment.resources
+C:\Shared\專題\第三組\ProjFitconnect\FrmMain\obj\Debug\FrmMain.FrmClassRate.resources
+C:\Shared\專題\第三組\ProjFitconnect\FrmMain\obj\Debug\ProjGym.FrmCoach_Payment.resources
+C:\Shared\專題\第三組\ProjFitconnect\FrmMain\obj\Debug\ProjGym.FrmEditMemberRegister.resources
+C:\Shared\專題\第三組\ProjFitconnect\FrmMain\obj\Debug\Revised_V1._1.FrmFindCoach.resources
+C:\Shared\專題\第三組\ProjFitconnect\FrmMain\obj\Debug\Gym.FrmFollow.resources
+C:\Shared\專題\第三組\ProjFitconnect\FrmMain\obj\Debug\ProjGym.FrmMember_CourseReservationV2.resources
+C:\Shared\專題\第三組\ProjFitconnect\FrmMain\obj\Debug\FrmMain.FrmReservingClasses.resources
+C:\Shared\專題\第三組\ProjFitconnect\FrmMain\obj\Debug\FrmMain.tool.CoachReviewBox.resources
+C:\Shared\專題\第三組\ProjFitconnect\FrmMain\obj\Debug\FrmMain.tool.ClassReservingBox.resources
+C:\Shared\專題\第三組\ProjFitconnect\FrmMain\obj\Debug\FrmMain.FrmAdmin_Checkmember.resources
+C:\Shared\專題\第三組\ProjFitconnect\FrmMain\obj\Debug\FrmMain.FrmClassReserved.resources
+C:\Shared\專題\第三組\ProjFitconnect\FrmMain\obj\Debug\Revised_V1._1.FrmCoachInfo.resources
+C:\Shared\專題\第三組\ProjFitconnect\FrmMain\obj\Debug\FrmMain.FrmCoachVerify.resources
+C:\Shared\專題\第三組\ProjFitconnect\FrmMain\obj\Debug\FrmMain.FrmEditCoachRegister.resources
+C:\Shared\專題\第三組\ProjFitconnect\FrmMain\obj\Debug\FrmMain.Frmfreetrial.resources
+C:\Shared\專題\第三組\ProjFitconnect\FrmMain\obj\Debug\FrmMain.FrmNewExpert.resources
+C:\Shared\專題\第三組\ProjFitconnect\FrmMain\obj\Debug\FrmMain.FrmOpenedClassCheck.resources
+C:\Shared\專題\第三組\ProjFitconnect\FrmMain\obj\Debug\FrmMain.reservebox.resources
+C:\Shared\專題\第三組\ProjFitconnect\FrmMain\obj\Debug\FrmMain.tool.ReservedMemberCheck.resources
+C:\Shared\專題\第三組\ProjFitconnect\FrmMain\obj\Debug\ProjGym.CourseBox.resources
+C:\Shared\專題\第三組\ProjFitconnect\FrmMain\obj\Debug\ProjGym.FrmCoach_AddNewCourse.resources
+C:\Shared\專題\第三組\ProjFitconnect\FrmMain\obj\Debug\ProjGym.FrmMember_CourseReservation.resources
+C:\Shared\專題\第三組\ProjFitconnect\FrmMain\obj\Debug\mid_Coonect.Tools.CoachBox.resources
+C:\Shared\專題\第三組\ProjFitconnect\FrmMain\obj\Debug\prjComponentDemo.usercontrol.FieldBox.resources
+C:\Shared\專題\第三組\ProjFitconnect\FrmMain\obj\Debug\ProjGym.FrmFAQ.resources
+C:\Shared\專題\第三組\ProjFitconnect\FrmMain\obj\Debug\Gym.FrmField.resources
+C:\Shared\專題\第三組\ProjFitconnect\FrmMain\obj\Debug\ProjGym.FrmHomePage.resources
+C:\Shared\專題\第三組\ProjFitconnect\FrmMain\obj\Debug\ProjGym.FrmLogin.resources
+C:\Shared\專題\第三組\ProjFitconnect\FrmMain\obj\Debug\ProjGym.FrmNewAdminRegister.resources
+C:\Shared\專題\第三組\ProjFitconnect\FrmMain\obj\Debug\ProjGym.FrmNewCoachRegister.resources
+C:\Shared\專題\第三組\ProjFitconnect\FrmMain\obj\Debug\ProjGym.FrmNewMemberRegister.resources
+C:\Shared\專題\第三組\ProjFitconnect\FrmMain\obj\Debug\ProjGym.Frm_首頁.resources
+C:\Shared\專題\第三組\ProjFitconnect\FrmMain\obj\Debug\FrmMain.Properties.Resources.resources
+C:\Shared\專題\第三組\ProjFitconnect\FrmMain\obj\Debug\ProjFitconnect.csproj.GenerateResource.cache
+C:\Shared\專題\第三組\ProjFitconnect\FrmMain\obj\Debug\ProjFitconnect.csproj.CoreCompileInputs.cache
+C:\Shared\專題\第三組\ProjFitconnect\FrmMain\obj\Debug\ProjFitconnect.csproj.CopyComplete
+C:\Shared\專題\第三組\ProjFitconnect\FrmMain\obj\Debug\FrmMain.exe
+C:\Shared\專題\第三組\ProjFitconnect\FrmMain\obj\Debug\FrmMain.pdb

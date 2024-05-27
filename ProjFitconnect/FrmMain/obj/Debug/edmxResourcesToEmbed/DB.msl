@@ -1,0 +1,212 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="gymModelStoreContainer" CdmEntityContainer="gymEntities">
+    <EntitySetMapping Name="sysdiagrams">
+      <EntityTypeMapping TypeName="gymModel.sysdiagrams">
+        <MappingFragment StoreEntitySet="sysdiagrams">
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="principal_id" ColumnName="principal_id" />
+          <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="definition" ColumnName="definition" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tclass_limit_details">
+      <EntityTypeMapping TypeName="gymModel.tclass_limit_details">
+        <MappingFragment StoreEntitySet="tclass_limit_details">
+          <ScalarProperty Name="class_limited_id" ColumnName="class_limited_id" />
+          <ScalarProperty Name="describe" ColumnName="describe" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tclass_reserve">
+      <EntityTypeMapping TypeName="gymModel.tclass_reserve">
+        <MappingFragment StoreEntitySet="tclass_reserve">
+          <ScalarProperty Name="reserve_id" ColumnName="reserve_id" />
+          <ScalarProperty Name="class_schedule_id" ColumnName="class_schedule_id" />
+          <ScalarProperty Name="member_id" ColumnName="member_id" />
+          <ScalarProperty Name="payment_status" ColumnName="payment_status" />
+          <ScalarProperty Name="reserve_status" ColumnName="reserve_status" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tclass_schedule">
+      <EntityTypeMapping TypeName="gymModel.tclass_schedule">
+        <MappingFragment StoreEntitySet="tclass_schedule">
+          <ScalarProperty Name="class_schedule_id" ColumnName="class_schedule_id" />
+          <ScalarProperty Name="class_id" ColumnName="class_id" />
+          <ScalarProperty Name="coach_id" ColumnName="coach_id" />
+          <ScalarProperty Name="field_id" ColumnName="field_id" />
+          <ScalarProperty Name="course_date" ColumnName="course_date" />
+          <ScalarProperty Name="course_time_id" ColumnName="course_time_id" />
+          <ScalarProperty Name="Max_student" ColumnName="Max_student" />
+          <ScalarProperty Name="class_status_id" ColumnName="class_status_id" />
+          <ScalarProperty Name="class_payment" ColumnName="class_payment" />
+          <ScalarProperty Name="coach_payment" ColumnName="coach_payment" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tclass_sort_有氧">
+      <EntityTypeMapping TypeName="gymModel.tclass_sort_有氧">
+        <MappingFragment StoreEntitySet="tclass_sort_有氧">
+          <ScalarProperty Name="class_sort1_id" ColumnName="class_sort1_id" />
+          <ScalarProperty Name="class_sort1_detail" ColumnName="class_sort1_detail" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tclass_sort_訓練">
+      <EntityTypeMapping TypeName="gymModel.tclass_sort_訓練">
+        <MappingFragment StoreEntitySet="tclass_sort_訓練">
+          <ScalarProperty Name="class_sort2_id" ColumnName="class_sort2_id" />
+          <ScalarProperty Name="class_sort2_detail" ColumnName="class_sort2_detail" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tclass_status_detail">
+      <EntityTypeMapping TypeName="gymModel.tclass_status_detail">
+        <MappingFragment StoreEntitySet="tclass_status_detail">
+          <ScalarProperty Name="class_status_id" ColumnName="class_status_id" />
+          <ScalarProperty Name="class_status_discribe" ColumnName="class_status_discribe" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tclasses">
+      <EntityTypeMapping TypeName="gymModel.tclasses">
+        <MappingFragment StoreEntitySet="tclasses">
+          <ScalarProperty Name="class_id" ColumnName="class_id" />
+          <ScalarProperty Name="class_sort1_id" ColumnName="class_sort1_id" />
+          <ScalarProperty Name="class_sort2_id" ColumnName="class_sort2_id" />
+          <ScalarProperty Name="class_name" ColumnName="class_name" />
+          <ScalarProperty Name="class_introduction" ColumnName="class_introduction" />
+          <ScalarProperty Name="limited_gender" ColumnName="limited_gender" />
+          <ScalarProperty Name="class_photo" ColumnName="class_photo" />
+          <ScalarProperty Name="class_status" ColumnName="class_status" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tcoach_expert">
+      <EntityTypeMapping TypeName="gymModel.tcoach_expert">
+        <MappingFragment StoreEntitySet="tcoach_expert">
+          <ScalarProperty Name="expert_id" ColumnName="expert_id" />
+          <ScalarProperty Name="coach_id" ColumnName="coach_id" />
+          <ScalarProperty Name="class_id" ColumnName="class_id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tcoach_info_id">
+      <EntityTypeMapping TypeName="gymModel.tcoach_info_id">
+        <MappingFragment StoreEntitySet="tcoach_info_id">
+          <ScalarProperty Name="coach_info_id" ColumnName="coach_info_id" />
+          <ScalarProperty Name="coach_intro" ColumnName="coach_intro" />
+          <ScalarProperty Name="coach_id" ColumnName="coach_id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tfield">
+      <EntityTypeMapping TypeName="gymModel.tfield">
+        <MappingFragment StoreEntitySet="tfield">
+          <ScalarProperty Name="field_id" ColumnName="field_id" />
+          <ScalarProperty Name="region_id" ColumnName="region_id" />
+          <ScalarProperty Name="floor" ColumnName="floor" />
+          <ScalarProperty Name="field_name" ColumnName="field_name" />
+          <ScalarProperty Name="field_payment" ColumnName="field_payment" />
+          <ScalarProperty Name="field_photo" ColumnName="field_photo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tfield_reserve">
+      <EntityTypeMapping TypeName="gymModel.tfield_reserve">
+        <MappingFragment StoreEntitySet="tfield_reserve">
+          <ScalarProperty Name="field_reserve_id" ColumnName="field_reserve_id" />
+          <ScalarProperty Name="field_id" ColumnName="field_id" />
+          <ScalarProperty Name="coach_id" ColumnName="coach_id" />
+          <ScalarProperty Name="payment_status" ColumnName="payment_status" />
+          <ScalarProperty Name="reserve_status" ColumnName="reserve_status" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tgender_Table">
+      <EntityTypeMapping TypeName="gymModel.tgender_Table">
+        <MappingFragment StoreEntitySet="tgender_Table">
+          <ScalarProperty Name="gender_id" ColumnName="gender_id" />
+          <ScalarProperty Name="gender_text" ColumnName="gender_text" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tIdentity">
+      <EntityTypeMapping TypeName="gymModel.tIdentity">
+        <MappingFragment StoreEntitySet="tIdentity">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="role_id" ColumnName="role_id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="phone" ColumnName="phone" />
+          <ScalarProperty Name="e_mail" ColumnName="e-mail" />
+          <ScalarProperty Name="password" ColumnName="password" />
+          <ScalarProperty Name="photo" ColumnName="photo" />
+          <ScalarProperty Name="birthday" ColumnName="birthday" />
+          <ScalarProperty Name="address" ColumnName="address" />
+          <ScalarProperty Name="gender_id" ColumnName="gender_id" />
+          <ScalarProperty Name="activated" ColumnName="activated" />
+          <ScalarProperty Name="payment" ColumnName="payment" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tidentity_role_detail">
+      <EntityTypeMapping TypeName="gymModel.tidentity_role_detail">
+        <MappingFragment StoreEntitySet="tidentity_role_detail">
+          <ScalarProperty Name="role_Id" ColumnName="role_Id" />
+          <ScalarProperty Name="role_describe" ColumnName="role_describe" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tmember_follow">
+      <EntityTypeMapping TypeName="gymModel.tmember_follow">
+        <MappingFragment StoreEntitySet="tmember_follow">
+          <ScalarProperty Name="follow_id" ColumnName="follow_id" />
+          <ScalarProperty Name="member_id" ColumnName="member_id" />
+          <ScalarProperty Name="coach_id" ColumnName="coach_id" />
+          <ScalarProperty Name="status_id" ColumnName="status_id" />
+          <ScalarProperty Name="stars" ColumnName="stars" />
+          <ScalarProperty Name="describe" ColumnName="describe" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tmember_rate_class">
+      <EntityTypeMapping TypeName="gymModel.tmember_rate_class">
+        <MappingFragment StoreEntitySet="tmember_rate_class">
+          <ScalarProperty Name="rate_id" ColumnName="rate_id" />
+          <ScalarProperty Name="member_id" ColumnName="member_id" />
+          <ScalarProperty Name="class_schedule_id" ColumnName="class_schedule_id" />
+          <ScalarProperty Name="rate" ColumnName="rate" />
+          <ScalarProperty Name="describe" ColumnName="describe" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tmember_status_details">
+      <EntityTypeMapping TypeName="gymModel.tmember_status_details">
+        <MappingFragment StoreEntitySet="tmember_status_details">
+          <ScalarProperty Name="status_id" ColumnName="status_id" />
+          <ScalarProperty Name="status_discribe" ColumnName="status_discribe" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tregion_table">
+      <EntityTypeMapping TypeName="gymModel.tregion_table">
+        <MappingFragment StoreEntitySet="tregion_table">
+          <ScalarProperty Name="region_id" ColumnName="region_id" />
+          <ScalarProperty Name="city" ColumnName="city" />
+          <ScalarProperty Name="region" ColumnName="region" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ttimes_detail">
+      <EntityTypeMapping TypeName="gymModel.ttimes_detail">
+        <MappingFragment StoreEntitySet="ttimes_detail">
+          <ScalarProperty Name="time_id" ColumnName="time_id" />
+          <ScalarProperty Name="time_name" ColumnName="time_name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
