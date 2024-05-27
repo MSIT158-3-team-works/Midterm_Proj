@@ -1,6 +1,7 @@
 # Midterm_Proj
 <p>FitConnect, an iSpan MSIT 158 midterm project, mainly using C#, SQL and LINQ.</p>
 <p>This is a Windows form project.</p>
+<p></p>
 
 <ul>
   <li>專題企劃：</li>
