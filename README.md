@@ -24,7 +24,7 @@ FitConnect, an iSpan MSIT 158 midterm project, mainly using C#, SQL and LINQ.
   </div>
   <div>
     <span>&emsp;&emsp;</span>
-    主介面：<span>&emsp;&emsp;</span>吳優、黃澈    
+    主介面：<span>&emsp;&emsp;</span>吳優<span>&emsp;</span>、黃澈    
   </div>
     <div>
       <span>&emsp;&emsp;</span>
@@ -32,7 +32,7 @@ FitConnect, an iSpan MSIT 158 midterm project, mainly using C#, SQL and LINQ.
     </div>
   <div>
     <span>&emsp;&emsp;</span>
-    會員介面：<span>&emsp;</span>吳優、麻凱傑    
+    會員介面：<span>&emsp;</span>吳優<span>&emsp;</span>、麻凱傑    
   </div>
   <div>
     <span>&emsp;&emsp;</span>
@@ -40,7 +40,7 @@ FitConnect, an iSpan MSIT 158 midterm project, mainly using C#, SQL and LINQ.
   </div>
   <div>
     <span>&emsp;&emsp;</span>
-    場地介面：<span>&emsp;</span>黃澈、葉少琛    
+    場地介面：<span>&emsp;</span>黃澈<span>&emsp;</span>、葉少琛    
   </div>
   <div>
     <span>&emsp;&emsp;</span>
